@@ -1,0 +1,11 @@
+Cucumber is a framework/tool that support BDD
+
+Cucumber uses gherkin language
+given- pre condition
+when-action
+then- result
+and- continuation any step
+but
+
+Feature high level feature / functionality of the system
+Scenario
